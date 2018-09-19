@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: sans-serif;
+  background-image: url(cp.jpg);
+
+}
+#root
+{
+  padding: 200px;
+}
+ul
+{
+  list-style-type: none;  
+  background: #ffe5e5;
+}
+.quesitons
+{
+  background: #ff9999;
+  padding: 10px;
+}
